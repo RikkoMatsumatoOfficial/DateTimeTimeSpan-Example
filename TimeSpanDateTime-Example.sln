@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeSpanDateTime-Example", "TimeSpanDateTime-Example\TimeSpanDateTime-Example.csproj", "{FED657F8-9EE2-48CD-BDC3-FC0C420C3B45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FED657F8-9EE2-48CD-BDC3-FC0C420C3B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED657F8-9EE2-48CD-BDC3-FC0C420C3B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED657F8-9EE2-48CD-BDC3-FC0C420C3B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED657F8-9EE2-48CD-BDC3-FC0C420C3B45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8F9051E-BC09-49EF-A82F-0918F8732009}
+	EndGlobalSection
+EndGlobal
